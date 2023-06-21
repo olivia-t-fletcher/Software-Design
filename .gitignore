@@ -1,0 +1,12 @@
+
+
+# files 
+.idea
+*.iml
+.DS_Store
+**/.DS_Store
+
+# folders
+
+out/
+/bin/

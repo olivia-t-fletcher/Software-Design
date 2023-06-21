@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Game levelNumber="1" totalTime="52.517212">
+  <Tiles>
+    <Row>
+      <Wall />
+      <Wall />
+      <Wall />
+      <Wall />
+      <Wall />
+      <Wall />
+      <Wall />
+      <Wall />
+      <Wall />
+      <Wall />
+      <Wall />
+    </Row>
+    <Row>
+      <Wall />
+      <Chip />
+      <FreeTile />
+      <Wall />
+      <FreeTile />
+      <Exit />
+      <FreeTile />
+      <Wall />
+      <FreeTile />
+      <Key colour="green" />
+      <Wall />
+    </Row>
+    <Row>
+      <Wall />
+      <Wall />
+      <FreeTile />
+      <Wall />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <Wall />
+      <FreeTile />
+      <Wall />
+      <Wall />
+    </Row>
+    <Row>
+      <Wall />
+      <Wall />
+      <Door colour="yellow" />
+      <Wall />
+      <Wall />
+      <ExitLock />
+      <Wall />
+      <Wall />
+      <FreeTile />
+      <Wall />
+      <Wall />
+    </Row>
+    <Row>
+      <Wall />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <Wall />
+    </Row>
+    <Row>
+      <Wall />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <Player PlayerDir="up" />
+      <InfoField info="Pick up all of the treasures to proceed to the next level." />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <Wall />
+    </Row>
+    <Row>
+      <Wall />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <Wall />
+    </Row>
+    <Row>
+      <Wall />
+      <Wall />
+      <Door colour="green" />
+      <Wall />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <Wall />
+      <Door colour="blue" />
+      <Wall />
+      <Wall />
+    </Row>
+    <Row>
+      <Wall />
+      <Wall />
+      <FreeTile />
+      <Wall />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <Wall />
+      <FreeTile />
+      <Wall />
+      <Wall />
+    </Row>
+    <Row>
+      <Wall />
+      <Key colour="blue" />
+      <FreeTile />
+      <Wall />
+      <FreeTile />
+      <FreeTile />
+      <FreeTile />
+      <Wall />
+      <FreeTile />
+      <Key colour="yellow" />
+      <Wall />
+    </Row>
+    <Row>
+      <Wall />
+      <Wall />
+      <Wall />
+      <Wall />
+      <Wall />
+      <Wall />
+      <Wall />
+      <Wall />
+      <Wall />
+      <Wall />
+      <Wall />
+    </Row>
+  </Tiles>
+</Game>

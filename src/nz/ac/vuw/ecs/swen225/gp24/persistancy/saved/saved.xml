@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Game levelNumber="1" totalTime="60.0">
+  <Tiles>
+    <Row>
+      <Chip />
+      <Chip />
+      <Chip />
+      <Chip />
+      <Chip />
+    </Row>
+    <Row>
+      <Chip />
+      <Player PlayerDir="up" />
+      <ExitLock />
+      <ExitLock />
+      <Chip />
+    </Row>
+    <Row>
+      <Chip />
+      <ExitLock />
+      <ExitLock />
+      <ExitLock />
+      <Chip />
+    </Row>
+    <Row>
+      <Chip />
+      <ExitLock />
+      <ExitLock />
+      <ExitLock />
+      <Chip />
+    </Row>
+    <Row>
+      <Chip />
+      <Chip />
+      <Chip />
+      <Chip />
+      <Chip />
+    </Row>
+  </Tiles>
+</Game>
