@@ -5,6 +5,8 @@
 3. Run the java application from App.Main()
 4. Start a new game !
 
+![Game Layout](http://url/to/img.png](https://raw.githubusercontent.com/olivia-t-fletcher/Software-Design/main/layout-example1.png)
+
 **For Persistancy:**
 
 To save the game
